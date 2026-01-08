@@ -18,7 +18,7 @@ Entender cómo se estructura un proceso.
 
 Prepararse para diseñar algoritmos más complejos.
 
-Instrucciones Detalladas
+Instruccione415412121s Detalladas
 
 1\. Investigación Teórica
 
@@ -53,4 +53,10 @@ Ejemplo:
 Rombo: Se usa para representar una decisión que puede tener dos o más caminos (Sí / No).
 
 Paralelogramo: Indica operaciones de entrada (leer datos) o salida (mostrar resultados).
+
+
+
+
+
+HOLA HOLA COMO ESTASASFAFAF
 
